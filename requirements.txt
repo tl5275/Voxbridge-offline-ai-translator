@@ -1,0 +1,14 @@
+faster-whisper
+webrtcvad
+sounddevice
+numpy
+transformers
+sentencepiece
+pyttsx3
+noisereduce
+scipy
+customtkinter
+matplotlib
+pillow
+torch
+sacremoses
