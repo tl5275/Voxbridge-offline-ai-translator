@@ -83,6 +83,10 @@ Offline Text-to-Speech
 ↓  
 Modern GUI  
 
+### 📊 Architecture Diagram
+
+![Architecture](assets/architecture.png)
+
 ---
 
 ## ⚙ Installation
