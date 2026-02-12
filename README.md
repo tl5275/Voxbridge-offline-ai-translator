@@ -94,7 +94,7 @@ Modern GUI
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/voxbridge-offline-ai-translator.git
+git clone https://github.com/tl5275/voxbridge-offline-ai-translator.git
 cd voxbridge-offline-ai-translator
 ```
 
