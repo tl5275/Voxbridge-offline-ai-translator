@@ -49,7 +49,7 @@ All processing runs locally. No cloud APIs are used.
 
 ---
 
-# ⚙️ Installation Guide (CRITICAL: Python Version Requirement)
+# Installation Guide (CRITICAL: Python Version Requirement)
 
 ## Python Version Requirement
 
@@ -59,7 +59,7 @@ VoxBridge is tested and verified with:
 Python 3.11.9
 ```
 
-⚠️ Python 3.13 is NOT supported due to compatibility issues with:
+Python 3.13 is NOT supported due to compatibility issues with:
 - faster-whisper
 - ctranslate2
 - PyTorch builds
@@ -76,8 +76,8 @@ https://www.python.org/downloads/release/python-3119/
 
 During installation:
 
-✔ Add Python to PATH  
-✔ Install for all users  
+Add Python to PATH  
+Install for all users  
 
 Verify:
 
@@ -204,7 +204,7 @@ Internet Required: No
 
 ---
 
-# 🔬 Technical Stack
+# Technical Stack
 
 - Faster-Whisper
 - MarianMT
@@ -245,7 +245,7 @@ Estimated CPU draw:
 
 ---
 
-# 🛠 Troubleshooting
+# Troubleshooting
 
 If installation fails:
 
@@ -274,7 +274,7 @@ If issues persist:
 
 ---
 
-## 🖥 Application Preview
+## Application Preview
 
 ### Dark Mode
 ![Dark Mode](assets/screenshots/dark_mode.png)
